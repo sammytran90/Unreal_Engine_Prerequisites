@@ -14,3 +14,5 @@ All default selected with the following:
 #### Individual components
 - [ ] .NET 9.0 Runtime
 - [ ] .NET 9.0 WebAssembly Build Tools
+
+Check this [link](https://learn.microsoft.com/en-us/visualstudio/gamedev/unreal/get-started/vs-tools-unreal-install)
