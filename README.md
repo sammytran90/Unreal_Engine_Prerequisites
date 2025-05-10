@@ -11,13 +11,15 @@ All default selected with the following:
 - [x] Visual Studio Tools for Unreal Engine
 - [x] Unreal Engine Installer
 - [x] Unreal Engine Test Adapter
+- [x] C++ v14.38 (17.8) ATL for v143 build tools (x86 & x64)
+- [x] MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)
 #### Individual components
 - [x] .NET 9.0 Runtime
 - [x] .NET 9.0 WebAssembly Build Tools
 
 Check this [link](https://learn.microsoft.com/en-us/visualstudio/gamedev/unreal/get-started/vs-tools-unreal-install)
 
-#### VS Code
+#### VSCode (or any other IDE)
 - [x] Update Code Editor in Unreal Engine/ Edit Preference to visualstudioCode
 - [x] Perform Unreal Engine / Tools / Generate Visual Studio Code Project
 - [x] Install VS Build Tools (should be included in Visual Studio 2022)
@@ -37,3 +39,4 @@ Check this [link](https://learn.microsoft.com/en-us/visualstudio/gamedev/unreal/
 
 **Notes**:
 - Compiler with VSCode seems to be really slow comparing to Visual Studio
+- Check out the [Common Issues](COMMON_ISSUES.md) document for troubleshooting tips.
